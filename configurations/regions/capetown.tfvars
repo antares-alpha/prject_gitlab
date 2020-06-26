@@ -2,7 +2,7 @@ region = "af-south-1"
 
 
 # Below code is used to set backend only
-environment                     =   "hongkong"
+environment                     =   "Cape Town"
 s3_bucket                       =   "terraform-state-april-class-nagima"
 s3_folder_project               =   "jenkins"
 s3_folder_region                =   "us-east-1"

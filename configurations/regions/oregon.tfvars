@@ -3,7 +3,7 @@ region = "us-west-2"
 
 # Below code is used to set backend only
 environment                     =   "oregon"
-s3_bucket                       =   "terrafor-state-april-class-okan"
+s3_bucket                       =   "terraform-state-april-class-nagima"
 s3_folder_project               =   "jenkins"
 s3_folder_region                =   "us-east-1"
 s3_folder_type                  =   "tools"

@@ -1,7 +1,7 @@
 terraform {
 backend "s3" {
-bucket = "terrafor-state-april-class-okan"
-key = "jenkins/us-east-1/tools/oregon/jenkins.tfstate"
+bucket = "terraform-state-april-class-nagima"
+key = "jenkins/us-east-1/tools/virginia/jenkins.tfstate"
 region = "us-east-1"
   }
 }
